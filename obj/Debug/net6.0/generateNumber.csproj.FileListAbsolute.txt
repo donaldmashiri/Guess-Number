@@ -1,0 +1,15 @@
+D:\practicecode\learnc#\generateNumber\bin\Debug\net6.0\generateNumber.exe
+D:\practicecode\learnc#\generateNumber\bin\Debug\net6.0\generateNumber.deps.json
+D:\practicecode\learnc#\generateNumber\bin\Debug\net6.0\generateNumber.runtimeconfig.json
+D:\practicecode\learnc#\generateNumber\bin\Debug\net6.0\generateNumber.dll
+D:\practicecode\learnc#\generateNumber\bin\Debug\net6.0\generateNumber.pdb
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\generateNumber.csproj.AssemblyReference.cache
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\generateNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\generateNumber.AssemblyInfoInputs.cache
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\generateNumber.AssemblyInfo.cs
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\generateNumber.csproj.CoreCompileInputs.cache
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\generateNumber.dll
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\refint\generateNumber.dll
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\generateNumber.pdb
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\generateNumber.genruntimeconfig.cache
+D:\practicecode\learnc#\generateNumber\obj\Debug\net6.0\ref\generateNumber.dll
